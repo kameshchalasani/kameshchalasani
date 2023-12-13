@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamesh Chalasani</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Devops" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*DluPjzT_eTUFdzHCI7JBZA.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kameshchalasani&label=Profile%20views&color=0e75b6&style=flat" alt="kameshchalasani" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=kameshchalasani&label=Profile%20views&color=0e75b6&style=flat" alt="kameshchalasani" /> </p>
 
 
 <p align="left">
