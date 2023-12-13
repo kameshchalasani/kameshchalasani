@@ -3,7 +3,7 @@
 #<img align="right" alt="Devops" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*DluPjzT_eTUFdzHCI7JBZA.gif"/>
 <img src="https://miro.medium.com/v2/resize:fit:679/1*DluPjzT_eTUFdzHCI7JBZA.gif" align="right" alt="Smiley face" width="420" height="420" style="float:left">
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=kameshchalasani&label=Profile%20views&color=0e75b6&style=flat" alt="kameshchalasani" /> </p>
+
 
 
 <p align="left">
