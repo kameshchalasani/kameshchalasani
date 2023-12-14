@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamesh Chalasani</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img src="devops.gif" align="right" alt="Smiley face" width="120" height="120">
+<img src="devops.gif" align="right" alt="Smiley face">
 <p align="left"> 
 
 
